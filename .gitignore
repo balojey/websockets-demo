@@ -1,3 +1,4 @@
 .sesskey
 poetry.lock
 __pycache__
+data
