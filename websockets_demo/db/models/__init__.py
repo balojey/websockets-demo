@@ -1,1 +1,1 @@
-from websockets_demo.db.models.users import users, User
+from websockets_demo.db.models.users import users, User, get_user
